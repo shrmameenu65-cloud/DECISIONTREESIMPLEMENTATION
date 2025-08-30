@@ -1,7 +1,0 @@
-panadas
-numpy
-scikit-learn
-matplotlib
-seaborn
-plotly-express
-scipy
